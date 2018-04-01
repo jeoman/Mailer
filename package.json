@@ -1,0 +1,24 @@
+{
+  "name": "mailer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jeoman/Mailer.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jeoman/Mailer/issues"
+  },
+  "homepage": "https://github.com/jeoman/Mailer#readme",
+  "dependencies": {
+    "fs": "0.0.1-security",
+    "nodemailer": "^4.6.4",
+    "nodemailer-smtp-pool": "^2.8.3"
+  }
+}
